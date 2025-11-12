@@ -5493,7 +5493,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Rbhagavathisrijareddy/first">
+                <a href="https://github.com/ramireddybhagavathisrijareddy">
                     <img src="https://avatars.githubusercontent.com/u/241400229?v=4" width="100px;"
                         alt="Ramireddy Bhagavathi Srija Reddy" />
                     <br />
