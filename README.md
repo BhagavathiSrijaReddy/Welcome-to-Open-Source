@@ -60,10 +60,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://github.com/ramireddybhagavathisrijareddy">
                     <img src="https://avatars.githubusercontent.com/u/243603250?v=4" width="100px;"
-                        alt="Ramireddy Bhagavathi Srija Reddy" />
+                        alt="Bhagavathi Srija Reddy" />
                     <br />
                     <sub>
-                        <b>Ramireddy Bhagavathi Srija Reddy</b>
+                        <b>Bhagavathi Srija Reddy</b>
                     </sub>
                 </a>
             </td>
